@@ -7,13 +7,13 @@ nav {
 .nav-container {
     display: flex;
     align-items: center;
+    gap: 100px;
 }
 
 .logo img {
     height: 40px;
     width: auto;
     display: block;
-    margin-right: 100px;
 }
 
 .menu-links {
