@@ -1,0 +1,35 @@
+nav {
+    background-color: #4CAF50;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 40px;
+    width: auto;
+    display: block;
+    margin-right: 100px;
+}
+
+.menu-links {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+}
+
+.menu-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.menu-links a:hover {
+    text-decoration: underline;
+}
