@@ -25,6 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	const links: MenuLink[] = [
 		{ name: "Home", href: "index.html" },
 		{ name: "About", href: "about.html" },
+		{ name: "Breweries", href: "breweries.html" },
 		{ name: "Contact", href: "contact.html" },
 	];
 
